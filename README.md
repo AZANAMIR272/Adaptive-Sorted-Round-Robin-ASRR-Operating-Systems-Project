@@ -23,12 +23,12 @@ An enhanced CPU scheduling algorithm designed to **improve average waiting time 
 
 ## 👨‍💻 Team Members
 
-| Name                      | Roll No.      | Responsibilities                                           |
-| ------------------------- | ------------- | ---------------------------------------------------------- |
-| **Muhammad Tariq Sohail** | 2023F-BSE-343 | Suggested the core idea of sorting & median-based TQ       |
-| **Muhammad Safwan**       | 2023F-BSE-282 | Designed algorithm, tested it & wrote project report       |
-| **Syed Azan Amir**        | 2023F-BSE-272 | Data analysis, Gantt chart design & performance comparison |
-| **Shaheer Abbasi**        | 2023F-BSE-289 | Developed simulation code & implemented visualization      |
+| Name                      | Responsibilities                                           |
+| ------------------------- | ---------------------------------------------------------- |
+| **Muhammad Tariq Sohail** | Suggested the core idea of sorting & median-based TQ       |
+| **Muhammad Safwan**       | Designed algorithm, tested it & wrote project report       |
+| **Syed Azan Amir**        | Data analysis, Gantt chart design & performance comparison |
+| **Shaheer Abbasi**        | Developed simulation code & implemented visualization      |
 
 ---
 
