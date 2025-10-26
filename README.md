@@ -75,8 +75,7 @@ ASRR outperforms traditional **RR** and **OMDRR (Optimum Multilevel Dynamic RR)*
 ### 🖥️ Software
 
 * **Operating System:** Windows 10
-* **Development Tool:** Visual Studio (C++ / C# simulation)
-* **Diagram Tool:** draw.io / diagrams.net
+* **Development Tool:** Visual Studio (Java simulation)
 * **Project Management:** Microsoft Project (Gantt Chart)
 
 ### 💾 Hardware
